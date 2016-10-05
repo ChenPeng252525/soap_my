@@ -81,4 +81,4 @@ function PowerOn(IpAdress,port,action){
 
 }
 
-PowerOn('10.221.40.46 ','851',true);
+PowerOn('10.221.40.46','851',true);
